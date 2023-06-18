@@ -1,4 +1,3 @@
-
 - uses: Platane/snk@v2
 with:
   github_user_name: ${{ github.mhdalaasheikhsleem }}
